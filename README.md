@@ -16,6 +16,7 @@
 </p>
   <h3> Welcome to my Github account where you will find the folowing topics (and more):</h3>
 <h3>This is a quick look into my favorite coding languages /Stats:</h3>
-
-  ![Ahlyel's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-xy&show_icons=true&theme=tokyonight)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-xy&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)](https://github.com/rahulbordoloi/github-readme-stats)
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/omar-xy?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-xy&theme=radical" />
+</p>

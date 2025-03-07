@@ -40,13 +40,13 @@ I’m **Omar Taraki**, a **Full-Stack Developer** with a passion for **AI-powere
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" /><br>C++</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" /><br>TypeScript</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="65" height="65" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" /><br>PostgreSQL</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" /><br>Django</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" /><br>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=webrtc" width="48" height="48" /><br>WebRTC</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ollama" width="48" height="48" /><br>Ollama</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" /><br>Kubernetes</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" /><br>Redis</td>
